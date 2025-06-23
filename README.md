@@ -6,7 +6,7 @@ This project explores how trader performance on Hyperliquid is influenced by Bit
 
 ## 📁 Files Included
 
-- `assignment.ipynb`: Jupyter notebook with full analysis, visualizations, and insights
+- `dataanalysis.ipynb`: Jupyter notebook with full analysis, visualizations, and insights
 - [`historical_data.csv`](https://drive.google.com/file/d/1i7sus29XTnRGE-3TUzMNlxh3Chc8u0qm/view?usp=drive_link ): Trader execution data (hosted on Google Drive due to size)
 - `fear_greed_index.csv`: Market sentiment data (included in this repo)
 
@@ -36,7 +36,7 @@ This project explores how trader performance on Hyperliquid is influenced by Bit
 
 ## 🚀 How to Run
 
-1. Open the `assignment.ipynb` notebook using Jupyter or Google Colab  
+1. Open the `dataanalysis.ipynb` notebook using Jupyter or Google Colab  
 2. Download `historical_data.csv` from the [Google Drive link](https://drive.google.com/file/d/1i7sus29XTnRGE-3TUzMNlxh3Chc8u0qm/view?usp=drive_link)  
 3. Place both `.csv` files in the same directory as the notebook  
 4. Run the cells to view the full analysis  
